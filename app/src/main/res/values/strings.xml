@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Formulary</string>
+    <string name="formulary">Formulary</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="password2">Repeat Password:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sports">Sports</string>
+    <string name="reading">Reading</string>
+    <string name="camping">Camping</string>
+    <string name="video_games">Video Games</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="birth_day">Birth Day</string>
+    <string name="save">Save</string>
+    <string-array name="city">
+        <item>City</item>
+        <item>Barranquilla</item>
+        <item>Bogotá</item>
+        <item>Calí</item>
+        <item>Cartagena</item>
+        <item>Medellín</item>
+    </string-array>
+</resources>
